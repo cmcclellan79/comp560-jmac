@@ -15,8 +15,9 @@ building_blocks = [
     'Fake student one',
     'Fausse etudiante deux',
     'Maximo Sanchez',
-    'Lionel Messi'
+    'Lionel Messi',
     'Matt Ferland',
+    'Aaron Shin',
 ]
 
 target_length = 1_000_000  # about 1MB will be plenty of training data
